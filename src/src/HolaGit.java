@@ -7,6 +7,8 @@ public class HolaGit {
 
 		// Este es el mensaje que se mostrará en la consola
         System.out.println("¡Hola Git, soc el Alex Vyval");
+        System.out.println("¡Hola Git, soc el Pau!");
+        System.out.println("¡Hola Git, soc el Alex");
 		
 	}
 
