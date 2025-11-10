@@ -6,6 +6,7 @@ public class HolaGit {
 		// TODO Auto-generated method stub
 
 		// Este es el mensaje que se mostrará en la consola
+        System.out.println("¡Hola Git, soc el Pau!");
         System.out.println("¡Hola Git, soc el Alex");
 		
 	}
